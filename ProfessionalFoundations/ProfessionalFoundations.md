@@ -1,0 +1,1 @@
+[Crash Course: Business - Soft Skills](https://www.youtube.com/playlist?list=PLH2l6uzC4UEV7F8DJZvvSoAQyPoLAgPm0)
