@@ -9,6 +9,8 @@ If you are new to GitHub I recommend watching this video by [freecodecamp](https
 When contributing please use the markup language known as [MARKDOWN](https://www.markdownguide.org/), watch this [video](https://www.youtube.com/watch?v=_aANg3_U9Q0) for more information on that.
  
 Each of the folders in this [repository](https://github.com/Cbarona/IBM-Application-Developer-Apprentices) corresponds to its respective module in the apprentice learning path for Application Developers. Whenever you come across learning material that you'd like to share, make a [pull request](https://makeapullrequest.com/) to the folder you choose to contribute to and add it to that folder's .md file using the [MARKDOWN](https://www.markdownguide.org/cheat-sheet/) format.
+
+## All new contributors please add your name the [Contributors](https://github.com/Cbarona/IBM-Application-Developer-Apprentices/blob/main/Contributors.md) list!
  
 1. [Professional Foundations](https://github.com/Cbarona/IBM-Application-Developer-Apprentices/tree/main/ProfessionalFoundations)
 1. [Computer Programming Fundamentals](https://github.com/Cbarona/IBM-Application-Developer-Apprentices/tree/main/ComputerProgrammingFundamentals)
